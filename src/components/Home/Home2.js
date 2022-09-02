@@ -19,7 +19,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              ReactJS, NodeJS, JS and different languages such as C, CPP, Python… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
