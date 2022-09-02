@@ -41,8 +41,8 @@ function Projects() {
             <ProjectCard
               imgPath={csilogo}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="CSI"
+              description="As a member of Core Team Management Team -Organizing differnt coding events and seminar with good leadership skills"
               ghLink="https://csiindia.org/"            
             />
           </Col>
